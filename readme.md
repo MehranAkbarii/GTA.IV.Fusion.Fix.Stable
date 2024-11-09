@@ -10,11 +10,11 @@ This projects aims to fix some issues in Grand Theft Auto IV: The Complete Editi
 
 ## Credits:
 
-> All rights belong to the creators of this Mod.
-> 
-> [ThirteenAG](https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod
-> 
-> [Parallellines0451](https://github.com/Parallellines0451) Developer of GTA IV FusionFix Mod fixed shaders
+**All rights belong to the creators of this Mod.**
+
+[ThirteenAG](https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod
+
+[Parallellines0451](https://github.com/Parallellines0451) Developer of GTA IV FusionFix Mod fixed shaders
 
 ## Installation:
 
