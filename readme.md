@@ -2,18 +2,18 @@
   <img width="400" src="https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/assets/4904157/f45efc2e-f4f5-4d4d-847b-0f0d19897ef4.png">
 </p>
 
+# GTAIV.EFLC.FusionFix
+
+This projects aims to fix some issues in Grand Theft Auto IV: The Complete Edition. Also available for [Max Payne 3](https://github.com/ThirteenAG/MaxPayne3.FusionFix#readme).
+
+![](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/assets/4904157/ba388163-c26a-41ae-8378-bef4037c4fd7)
+
 > [!NOTE]
 **Credits**: All rights belong to the creators of this work.
 > 
 > [ThirteenAG](https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod
 > 
 > [Parallellines0451](https://github.com/Parallellines0451) Developer of GTA IV FusionFix Mod fixed shaders
-
-# GTAIV.EFLC.FusionFix
-
-This projects aims to fix some issues in Grand Theft Auto IV: The Complete Edition. Also available for [Max Payne 3](https://github.com/ThirteenAG/MaxPayne3.FusionFix#readme).
-
-![](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/assets/4904157/ba388163-c26a-41ae-8378-bef4037c4fd7)
 
 ## Installation:
 
