@@ -181,6 +181,7 @@ This projects aims to fix some issues in Grand Theft Auto IV: The Complete Editi
 ### Water
 - Fixed water texture tiling
 - Fixed textureless water on AMD graphics cards
+- Fixed broken shore foam effect
 ### Misc
 - Improved mirror depth/placement
 - Fixed invisible gta_emissivestrong lights like in the Rotterdam Tower
