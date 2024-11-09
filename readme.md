@@ -4,7 +4,9 @@
 
 > [!NOTE]
 **Credits**: All rights belong to the creators of this work.
-> [ThirteenAG] (https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod 
+> 
+> [ThirteenAG] (https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod
+> 
 > [Parallellines0451] (https://github.com/Parallellines0451) Developer of GTA IV FusionFix Mod fixed shaders
 
 # GTAIV.EFLC.FusionFix
