@@ -12,11 +12,11 @@ This projects aims to fix some issues in Grand Theft Auto IV: The Complete Editi
 
 **All rights belong to creators of this project**
 
-[ThirteenAG](https://github.com/ThirteenAG) Developer of GTA IV FusionFix prject
+[ThirteenAG](https://github.com/ThirteenAG) Developer of GTA IV FusionFix project
 
 [Parallellines0451](https://github.com/Parallellines0451) Developer of GTA IV FusionFix fixed shaders
 
-Original Project repository link : [FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
+Original project repository link : [FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
 
 ## Installation:
 
