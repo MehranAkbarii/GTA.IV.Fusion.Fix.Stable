@@ -10,7 +10,7 @@ This projects aims to fix some issues in Grand Theft Auto IV: The Complete Editi
 
 ## Credits:
 
-**All rights belong to the creators of this Mod.**
+**All rights belong to the creators of this Mod**
 
 [ThirteenAG](https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod
 
