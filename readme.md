@@ -8,8 +8,9 @@ This projects aims to fix some issues in Grand Theft Auto IV: The Complete Editi
 
 ![](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/assets/4904157/ba388163-c26a-41ae-8378-bef4037c4fd7)
 
-> [!NOTE]
-**Credits**: All rights belong to the creators of this work.
+## Credits:
+
+> All rights belong to the creators of this Mod.
 > 
 > [ThirteenAG](https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod
 > 
