@@ -16,6 +16,8 @@ This projects aims to fix some issues in Grand Theft Auto IV: The Complete Editi
 
 [Parallellines0451](https://github.com/Parallellines0451) Developer of GTA IV FusionFix Mod fixed shaders
 
+Original Project repository link : [FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
+
 ## Installation:
 
 > [!NOTE]
