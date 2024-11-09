@@ -1,8 +1,11 @@
 <p align="center">
   <img width="400" src="https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix/assets/4904157/f45efc2e-f4f5-4d4d-847b-0f0d19897ef4.png">
 </p>
+
 > [!NOTE]
-> **Credits**: All rights belong to the creators of this work.
+**Credits**: All rights belong to the creators of this work.
+> [ThirteenAG] (https://github.com/ThirteenAG) Developer of GTA IV FusionFix Mod 
+> [Parallellines0451] (https://github.com/Parallellines0451) Developer of GTA IV FusionFix Mod fixed shaders
 
 # GTAIV.EFLC.FusionFix
 
