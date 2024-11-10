@@ -192,6 +192,8 @@ Original project repository link : [FusionFix](https://github.com/ThirteenAG/GTA
 - Fixed water texture tiling
 - Fixed textureless water on AMD graphics cards
 - Fixed broken shore foam effect
+- Fixed flickering outlines around shores
+- Improved water transparency
 ### Misc
 - Improved mirror depth/placement
 - Fixed invisible gta_emissivestrong lights like in the Rotterdam Tower
